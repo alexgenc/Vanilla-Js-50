@@ -7,3 +7,8 @@ Build 50 things with vanilla Js in 50 days.
 3- Unlimited photo viewing with infinite scroll functionality. All Photos are from Unsplash API.
 
 4- RGB Color Game. Pick the correct color to match a given RGB color code. Can select easy mode (3 possible choices) or hard mode (6 possible choices).
+
+5- Picture in Picture App. Screencast a video using Screen Capture API.
+
+6- Movie Seat Booking App. For simplicity purposes, there is only a single movie theater layout.
+
