@@ -12,6 +12,8 @@ Build 50 things with vanilla Js in 50 days.
 
 6- Movie Seat Booking App. For simplicity purposes, there is only a single movie theater layout.
 
-7- Custom Video Player using HTML5 Video API
+7- Custom Video Player using HTML5 Video API.
 
 8- Exchange Rate Calculator using Exchange Rate API.
+
+9- Audible Joke Teller using Text-to-Speech API and Joke API.
