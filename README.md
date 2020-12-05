@@ -18,4 +18,6 @@ Build 50 things with vanilla Js in 50 days.
 
 9- Audible Joke Teller using Text-to-Speech API and Joke API.
 
-10 - Light and Dark Mode switch for a basic website.
+10- Light and Dark Mode switch for a basic website.
+
+11- Generate random users using Random User API and play around with their info/attributes using advanced DOM array methods. 
