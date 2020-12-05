@@ -17,3 +17,5 @@ Build 50 things with vanilla Js in 50 days.
 8- Exchange Rate Calculator using Exchange Rate API.
 
 9- Audible Joke Teller using Text-to-Speech API and Joke API.
+
+10 - Light and Dark Mode switch for a basic website.
