@@ -23,3 +23,5 @@ Build 50 things with vanilla Js in 50 days.
 11- Generate random users using Random User API and play around with their info/attributes using advanced DOM array methods. 
 
 12- Animated Landing Page design using Tailwind Library and Animation on Scroll Library.
+
+13- A simple landing page with a menu slider and a modal sign up form.
