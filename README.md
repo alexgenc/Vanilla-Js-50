@@ -25,3 +25,7 @@ Build 50 things with vanilla Js in 50 days.
 12- Animated Landing Page design using Tailwind Library and Animation on Scroll Library.
 
 13- A simple landing page with a menu slider and a modal sign up form.
+
+14- Basic Hangman Game.
+
+15- Meal finder app using MealDB API.
