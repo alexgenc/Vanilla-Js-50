@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Todo App</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"/>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo App</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Script -->
-    <script src="script.js"></script>
+
+  <h1>What-to-Do</h1>
+  
+  <section class="form-container">
+    <div>
+      <h3>To-Do List</h3>
+      <div id="addtodo">
+          <input id="new-todo" type="text" placeholder="New To-Do">
+          <span id="new-todo-btn"><i class="fa fa-plus fa-2x"></i></span>
+      </div>
+        <ul id=todos-list></ul>
+    </div>
+  </section>
+
+<script src=script.js></script>
 </body>
 </html>
