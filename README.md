@@ -37,3 +37,12 @@ Build 50 things with vanilla Js in 50 days.
 18 - Expense Tracker App using advanced Js DOM array methods.
 
 19 - Todo App with functionality to save todos to localStorage.
+
+20 - Custom Countdown App with localStorage support.
+
+21 - Custom Bookmarks Manager App with localStorage support.
+
+22 - Speed Typer is a typing game with different difficulty levels.
+
+23 - Speech to Text Reader App.
+
