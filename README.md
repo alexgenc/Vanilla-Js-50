@@ -46,3 +46,16 @@ Build 50 things with vanilla Js in 50 days.
 
 23 - Speech to Text Reader App.
 
+24 - Flash cards app to improve memory.
+
+25 - Lyrics search app using Lyrics.OVH API
+
+26 - Breathing relaxer app.
+
+27 - Drag n Drop Game.
+
+28 - Audible Numbers Game using Speech Recognition API.
+
+29 - New Year Countdown Timer app.
+
+30 - Breakout Game using Canvas API.
