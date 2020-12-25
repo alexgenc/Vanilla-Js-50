@@ -1,4 +1,4 @@
-Build 50 things with vanilla Js in 50 days.
+Build 50 small projects (< 3 hours) with vanilla Js in 50 days.
 
 1 - Quote Generator using Forismatic API.
 
