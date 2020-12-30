@@ -59,3 +59,21 @@ Build 50 small projects (< 3 hours) with vanilla Js in 50 days.
 29 - New Year Countdown Timer app.
 
 30 - Breakout Game using Canvas API.
+
+31 - Calculator app.
+
+32 - Sign up form with more advanced validation.
+
+33 - Blog page with infinite scroll.
+
+34 - Custom music player with a different UI.
+
+35 - Pong game using Canvas API.
+
+36 - Paint app using Canvas API.
+
+37 - Custom splash page.
+
+38 - Rock, Paper, Scissors, Lizard, Spock game.
+
+39 - Math Sprint game.
