@@ -1,4 +1,4 @@
-Build 50 small projects (< 3 hours) with vanilla Js in 50 days.
+Build 50 small projects with vanilla Js in 50 days.
 
 1 - Quote Generator using Forismatic API.
 
@@ -77,3 +77,13 @@ Build 50 small projects (< 3 hours) with vanilla Js in 50 days.
 38 - Rock, Paper, Scissors, Lizard, Spock game.
 
 39 - Math Sprint game.
+
+40 - Nasa APOD app.
+
+41 - Kanban style list making application with draggable items similar to Trello.
+
+43 - Custom video player with advanced controls such as volume control, play speed, etc.
+
+43 - Custom Timer App with OO design.
+
+44 - Movie comparison app using OMDB API.
