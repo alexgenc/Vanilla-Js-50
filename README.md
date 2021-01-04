@@ -87,3 +87,10 @@ Build 50 small projects with vanilla Js in 50 days.
 43 - Custom Timer App with OO design.
 
 44 - Movie comparison app using OMDB API.
+
+45 - Maze game using Matter.js 2D physics engine.
+
+46 - Memory game.
+
+47 - Secret Messaging App.
+
