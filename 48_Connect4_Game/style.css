@@ -1,9 +1,67 @@
 
-html {
-  box-sizing: border-box;
+body {
+	background-color: #99ff99;
 }
 
-body {
-  margin: 0;
-  min-height: 100vh;
+
+h1 {
+	text-align: center;
+	font-family: Impact;
+	text-shadow: 2px 2px black;
+	font-size: 75px;
+	margin: 25px 0px;
 }
+
+#board {
+	margin: auto;
+}
+
+#board td {
+	width: 60px;
+	height: 60px;
+	border: solid 1px #000;
+}
+
+/* pieces are div within game table cells: draw as colored circles */
+
+.piece {
+	margin: 5px;
+	width: 80%;
+	height: 80%;
+	border-radius: 50%;
+}
+
+/* make pieces red/blue,  depending on player 1/2 piece */
+
+.player1 {
+	background-color: red;
+}
+
+.player2 {
+	background-color: blue;
+}
+
+/* column-top is table row of clickable areas for each column */
+
+#column-top td {
+	border: dashed 3px #ff00ff;
+}
+
+#column-top td:hover {
+	background-color: gold;
+}
+
+.fall {
+	animation-name: fall-animation;
+	animation-duration: 500ms;
+}
+
+@keyframes fall-animation {
+	from {
+		transform: translateY(-500px);
+	}
+	to {
+		transform: translateY(0);
+	}
+}
+
