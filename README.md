@@ -94,3 +94,7 @@ Build 50 small projects with vanilla Js in 50 days.
 
 47 - Secret Messaging App.
 
+48 - Connect 4 game.
+
+49 - Jeopardy game.
+
