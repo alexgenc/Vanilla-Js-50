@@ -1,14 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meme Generator</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"/>
     <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <title>Meme Generator</title>
 </head>
+
 <body>
-    <!-- Script -->
+<div class="header">
+    <h1>I CAN HAZ MEMEZ?</h1>
+    <h3>Fill out the form to start creating memes!</h2>
+</div>
+
+<div class="form">
+    <p>
+        <label for="imageUrl">Image URL</label>
+        <input type="url" id="imageUrl" placeholder="What's the URL for your meme image?">
+    </p>   
+    
+    <p>
+    <label for="topText">Text on Top</label>
+    <input type="text" id="topText" placeholder="(Optional) What text do you want at the top of the meme?">
+    </p>
+
+    <p>
+    <label for="bottomText">Text on Bottom</label>
+    <input type="text" id="bottomText" placeholder="(Optional) What text do you want at the bottom of the meme?">
+    </p>
+
+    <p>
+    <form action="submit" id="generateMeme">
+        <button id="submit">Generate Meme</button>
+    </form>
+    </p>
+</div>    
+
+<div id="memeResults"></div>
+
     <script src="script.js"></script>
 </body>
 </html>
