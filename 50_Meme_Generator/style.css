@@ -1,9 +1,117 @@
-
-html {
-  box-sizing: border-box;
+h1 {
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	margin-top: -20px;
+	padding-top: 50px;
+	margin-bottom: -10px;
+	font-family: "Comic Sans MS";
 }
 
-body {
-  margin: 0;
-  min-height: 100vh;
+h3 {
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 25px;
+	color: white;
+	font-family: "Comic Sans MS";
+}
+
+.header {
+	background-color: black;
+}
+
+.form {
+	margin-top: -20px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: green;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+
+label {
+	display: inline-block;
+	clear: left;
+	text-align: center;
+	width: 150px;
+}
+
+input {
+	display: inline-block;
+	width: 800px;
+	height: 25px;
+}
+
+#submit {
+	background-color: orchid;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.img {
+	width: 900px;
+	height: auto;
+	border-radius: 2%;
+}
+
+.meme {
+	position: relative;
+	margin-bottom: 50px;
+}
+
+.remove {
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 8px 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+	margin-bottom: 1px;
+	margin-right: 500px;
+	border-radius: 5%;
+	display: none;
+}
+
+.meme:hover .remove,
+.remove:hover {
+	display: inline-block;
+}
+
+.top {
+	background-color: transparent;
+	font-size: 40px;
+	font-family: "Impact";
+	color: white;
+	text-shadow: black 0px 0px 10px;
+	position: absolute;
+	top: 5%;
+	width: 900px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.bottom {
+	background-color: transparent;
+	font-size: 40px;
+	font-family: "Impact";
+	color: white;
+	text-shadow: black 0px 0px 10px;
+	position: absolute;
+	bottom: 5%;
+	width: 900px;
+	text-align: center;
+}
+
+#memeResults {
+	padding-top: 50px;
+	width: 1000px;
 }
