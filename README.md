@@ -98,5 +98,5 @@ Build 50 small projects with vanilla Js in 50 days.
 
 49 - Jeopardy game.
 
-50 - Meme Generator
+50 - Meme Generator.
 
